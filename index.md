@@ -4,15 +4,19 @@ You can use the [editor on GitHub](https://github.com/jessmtz2511/CDCMX-Challeng
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Purification of proteins
+## Purification of proteins
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-### Determining the structure of proteins by cryo-EM
+### Obstacles in purification of proteins
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-### Obstacles 
+## Determining the structure of proteins by cryo-EM
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+### Obstacles in determining the structure of proteins by cryo-EM
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
