@@ -18,6 +18,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+## References
+
 ```markdown
 Syntax highlighted code block
 
