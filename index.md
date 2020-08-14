@@ -1,5 +1,7 @@
 ## CDCMX Challenge Task 7
 
+Objective: Explain the process of purification of a protein and how is the protein's structure determined by the cryo-EM technique including an overview of the obstacles in this process.
+
 You can use the [editor on GitHub](https://github.com/jessmtz2511/CDCMX-Challenge/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
