@@ -1,6 +1,7 @@
 # CDCMX Challenge Task 7
 
 Objective: Explain the process of purification of a protein and how is the protein's structure determined by the cryo-EM technique including an overview of the obstacles in this process.
+
 Based on the Article "SARS-CoV-2 and bat RaTG13 spike glycoprotein structures inform on virus evolution and furin-cleavage effects" published on Nature structural and molecular biology by Antoni G. Wrobel, Donald J. Benton, Pengqi Xu, Chloe Roustan, Stephen R. Martin, Peter B. Rosenthal, et. al
 
 ## Purification of proteins
