@@ -36,7 +36,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ## Determining the structure of proteins by cryo-EM
 
-### Preparing SARS-CoV-2 S
+#### Preparing SARS-CoV-2 S
 
 The furin-uncleavable SARS-CoV-2 S was frozen.
 
@@ -50,9 +50,21 @@ The resulting RaTG13 S and furin-treated SARS-CoV-2 S were frozen at mesh grids 
 
 To prepare the samples, 4 microliters of sample was added to a grid and the was plunge freezing (rapidly submerging it in a cryogen) into liquid ethane - cryogen.
 
+#### Devices and software used for collecting data
+
+- EPU Software
+- Thermo Scientific Titan Krios microscope
+- Falcon 3 (furin-uncleavable SARS-CoV-2 S micrographs)
+- Gatan K2 (furin-treated SARS-CoV-2 S and RaTG13 S micrographs)
+
 ### Obstacles in determining the structure of proteins by cryo-EM
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+## Data processing
+
+1. Movie frames were aligned using Motion Cor2 (corrects beam-induced sample motion recorded on dose fractionated movie stacks) and Contrast Transfer Function (corrects multiples Fourier transforms caused by an oscillating function that depends on defocus and the spherical aberration coefficient of the objective lens)
+
 
 ## References
 
