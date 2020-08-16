@@ -63,6 +63,8 @@ Processing cryo-EM data to reveal heterogeneity in the protein structure and to 
 
 Movie frameswere aligned using MotionCor2 (corrects beam-induced sample motion recorded on dose fractionated movie stacks) and Contrast Transfer Function (multiplies the Fourier transform by an oscillating function that depends on defocus and the spherical aberration coefficient of the objective lens). Furin-uncleavable SARS-CoV-2 S micrographs were manually picked using crYOLO (fast and accurate particle picking procedure, based on convolutional neural networks and utilizes You Only Look Once object detection system). Particles on the carbon support were picked using RELION (open-source computer program for the refinement of macromolecular structures by single-particle analysis) auto-picking. Using RELION, classes with a clear secondary structure were retained and then classifing using RELION with models in cryoSPARC (scientific software platform for cryo-EM). Final refinements were made with cryoSPARC, except for intermediate conformation whose refinements were made by RELION. Local resolution was estimated in cryoSPARC. Maps were filtered and sharpened in cryoSPARC.
 
+![data](https://ars.els-cdn.com/content/image/1-s2.0-S1369527417301315-gr1.jpg)
+
 ## Model Building
 
 Uncleavable SARS-CoV-2 S in closed conformation was first based on the already published structure, it was fitted to density and added extra regions. This model was used for building RaTG13 S structure, in which some residues were changed. PHENIX refined and validated this models.
