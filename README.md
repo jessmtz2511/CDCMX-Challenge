@@ -16,13 +16,23 @@ Spike glycoproteins in the comparative study of SARS-CoV-2 and RaTG13 were expre
 
 Spike proteins were bound to TALON cobalt leads (a purification resin which delivers his-tagged proteins of the highest purity), washed and eluted (reverse process of binding to the resin) with imidazol. ACE2 was bounded to Strep-Tactin XT resin (part of a purification system for recombined proteins). The protein was eluted with Strep-Tactin Elution Buffer BXT. Next, all proteins were flash-frozen (froze proteins in a short amount of time due to exposition to cryogenic temperatures in liquid nitrogen)or gel-filtration (process of separation of molecules based on their ability to enter the pores of the gel-filtration medium) a Superdex 200 Increase column which delivers higher resolution purification in a short time.
 
+#### 3. Furin is important for SARS-CoV-2 S glycoprotein to bind to ACE2
+
+A furin treatment was applied to SARS-CoV-2 S glycoprotein. Recombinant furin (furin cloned in an expression system) was used to cleave SARS-CoV-2 S glycoprotein. SDS-PAGE (Sodium dodecyl sulfate Polyacrylamide Gel Electrophoresis is used to separate components of a protein mixture based on their size) was used to track the reaction. 
+
 ### Obstacles in purification of proteins
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ## Determining the structure of proteins by cryo-EM
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The furin-uncleavable human S was frozen.
+
+#### Preparing RaTG13 S
+
+RaTG13 S need to be prepared for cryo-EM by buffer optimization and cross-linking (binding two or more protein molecules to facilitate scientific probes on protein-protein interactions). The protein was treated with BS^3 - a crosslinker (chemical agent used to cross-link)- and double cross-linking was achieved using the Grafix Protocol (method to purify and stabilize macromolecular complexes for single particle cryo-EM). Fractions containing RaTG13 S indentified with SDS-PAGE were concetrated and gel-filtered.
+
+The resulting RaTG13 S and furin-treated SARS-CoV-2 S were frozen at mesh grids with a thin layer carbon. The grids were glow discharged prior to freezing. Glow discharge negatively charges a carbon layer in order to make aqueous solutions spread easier over the carbon surface.
 
 ### Obstacles in determining the structure of proteins by cryo-EM
 
