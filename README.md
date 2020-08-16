@@ -7,7 +7,7 @@ Based on the Article "SARS-CoV-2 and bat RaTG13 spike glycoprotein structures in
 ## Purification of proteins
 
 ![protein](https://upload.wikimedia.org/wikipedia/commons/e/e3/6VSB_spike_protein_SARS-CoV-2_homotrimer.png)
->Image of SARS-CoV-2 Spike protein homotrimer structure
+>*Image of SARS-CoV-2 Spike protein homotrimer structure*
 
 #### 1. Proteins need to be expressed in a cell culture to produce them in large quantities for specific subjects of study. 
 
