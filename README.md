@@ -57,6 +57,8 @@ To prepare the samples, 4 microliters of sample was added to a grid and the was 
 
 Processing cryo-EM data to reveal heterogeneity in the protein structure and to refine 3D maps to high resolution requires expert intervention, prior structural knowledge, and weeks of calculations on expensive computer clusters.
 
+![cryoem](https://www.researchgate.net/profile/EV_Orlova/publication/318102798/figure/fig13/AS:668721475489807@1536447032967/Cryo-EM-sample-preparation-a-3-mm-copper-mesh-grid-covered-with-a-film-of-holey.png)
+
 ## Data processing
 
 Movie frameswere aligned using MotionCor2 (corrects beam-induced sample motion recorded on dose fractionated movie stacks) and Contrast Transfer Function (multiplies the Fourier transform by an oscillating function that depends on defocus and the spherical aberration coefficient of the objective lens). Furin-uncleavable SARS-CoV-2 S micrographs were manually picked using crYOLO (fast and accurate particle picking procedure, based on convolutional neural networks and utilizes You Only Look Once object detection system). Particles on the carbon support were picked using RELION (open-source computer program for the refinement of macromolecular structures by single-particle analysis) auto-picking. Using RELION, classes with a clear secondary structure were retained and then classifing using RELION with models in cryoSPARC (scientific software platform for cryo-EM). Final refinements were made with cryoSPARC, except for intermediate conformation whose refinements were made by RELION. Local resolution was estimated in cryoSPARC. Maps were filtered and sharpened in cryoSPARC.
