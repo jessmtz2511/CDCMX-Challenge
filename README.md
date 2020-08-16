@@ -27,6 +27,9 @@ Spike proteins were bound to TALON cobalt leads (a purification resin which deli
 
 A furin treatment was applied to SARS-CoV-2 S glycoprotein. Recombinant furin (furin cloned in an expression system) was used to cleave SARS-CoV-2 S glycoprotein. SDS-PAGE (Sodium dodecyl sulfate Polyacrylamide Gel Electrophoresis is used to separate components of a protein mixture based on their size) was used to track the reaction. 
 
+![furin](https://www.researchgate.net/publication/309070939/figure/fig1/AS:560653511008256@1510681621348/Structure-of-the-furinRVKR-CMKNb14-complex-Human-furin-is-shown-as-surface.png)
+>*Image of human furin protein*
+
 ### Obstacles in purification of proteins
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
