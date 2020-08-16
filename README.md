@@ -26,7 +26,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ## Determining the structure of proteins by cryo-EM
 
-The furin-uncleavable human S was frozen.
+### Preparing SARS-CoV-2 S
+
+The furin-uncleavable SARS-CoV-2 S was frozen.
 
 #### Preparing RaTG13 S
 
