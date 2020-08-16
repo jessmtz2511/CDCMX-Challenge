@@ -35,7 +35,11 @@ The furin-uncleavable SARS-CoV-2 S was frozen.
 
 RaTG13 S need to be prepared for cryo-EM by buffer optimization and cross-linking (binding two or more protein molecules to facilitate scientific probes on protein-protein interactions). The protein was treated with BS^3 - a crosslinker (chemical agent used to cross-link)- and double cross-linking was achieved using the Grafix Protocol (method to purify and stabilize macromolecular complexes for single particle cryo-EM). Fractions containing RaTG13 S indentified with SDS-PAGE were concetrated and gel-filtered.
 
-The resulting RaTG13 S and furin-treated SARS-CoV-2 S were frozen at mesh grids with a thin layer carbon. The grids were glow discharged prior to freezing. Glow discharge negatively charges a carbon layer in order to make aqueous solutions spread easier over the carbon surface.
+The resulting RaTG13 S and furin-treated SARS-CoV-2 S were frozen at mesh grids with a thin layer carbon. The grids were glow discharged prior to freezing. Glow discharge negatively charges a carbon layer in order to make aqueous solutions spread easier over the carbon surface. 
+
+#### Preparing the Samples
+
+To prepare the samples, 4 microliters of sample was added to a grid and the was plunge freezing (rapidly submerging it in a cryogen) into liquid ethane - cryogen.
 
 ### Obstacles in determining the structure of proteins by cryo-EM
 
@@ -53,3 +57,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 8. Sharpe, T. (2013, May 14). Freezing and Storing Protein Solutions. Retrieved August 14, 2020, from https://www.biozentrum.unibas.ch/fileadmin/redaktion/05_Facilities/01_Technology_Platforms/BF/Protocols/Freezing_and_Storing_Protein.pdf
 9. S.G. Prapulla, N.G. Karanth. (2014). Gel Filtration. Retrieved August 15, 2020, from https://www.sciencedirect.com/topics/immunology-and-microbiology/gel-filtration
 10. Cytiva. (2020). Superdex 200 Increase small-scale SEC columns. Retrieved August 15, 2020, from https://www.cytivalifesciences.com/en/us/shop/chromatography/prepacked-columns/size-exclusion/superdex-200-increase-small-scale-size-exclusion-chromatography-columns-p-06190
+11. Dobro, M., Melanson, L., Jensen, G., &amp; McDowall, A. (2010, September 29). Chapter Three - Plunge Freezing for Electron Cryomicroscopy. Retrieved August 15, 2020, from https://www.sciencedirect.com/science/article/pii/S0076687910810031
+12. Stark, H. (2010). GraFix: Stabilization of Fragile Macromolecular Complexes for Single Particle Cryo-EM. Retrieved August 15, 2020, from http://cryoem.life.tsinghua.edu.cn/wp-content/uploads/2013/05/GraFix_method.pdf
+13. G Biosciences. (2012, October 12). What is Protein Cross-Linking and Which Reagents are Used in it? Retrieved August 16, 2020, from https://info.gbiosciences.com/blog/bid/160707/what-is-protein-cross-linking-and-which-reagents-are-used-in-it
+13. TED PELLA, INC. (2020). PELCO easiGlow™ Glow Discharge Cleaning System. Retrieved August 16, 2020, from https://www.tedpella.com/easiGlow_html/Glow-Discharge-Cleaning-System.htm
+14. Aryal, S. (2020, January 14). Polyacrylamide Gel Electrophoresis (PAGE): Instrumentation. Retrieved August 16, 2020, from https://microbenotes.com/polyacrylamide-gel-electrophoresis-page/
